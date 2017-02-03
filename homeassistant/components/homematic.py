@@ -87,6 +87,7 @@ HM_ATTRIBUTE_SUPPORT = {
     'CURRENT': ['Current', {}],
     'VOLTAGE': ['Voltage', {}],
     'WORKING': ['Working', {0: 'No', 1: 'Yes'}],
+    'SHOW_SET_TEMPERATURE': ['ShowSetTemp', {0: 'On', 1: 'Off'}],
 }
 
 HM_PRESS_EVENTS = [
